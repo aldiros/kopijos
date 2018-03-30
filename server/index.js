@@ -1,4 +1,5 @@
 const initPort = (port) => {
+  this.port = port
 }
 
-console.log('This is , 8080')
+console.log('This is server, on port 9000')
