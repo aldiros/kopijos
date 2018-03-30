@@ -1,0 +1,23 @@
+{
+  "name": "kopijos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldiros/kopijos.git"
+  },
+  "author": "aldiros, kresnahendri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldiros/kopijos/issues"
+  },
+  "homepage": "https://github.com/aldiros/kopijos#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
